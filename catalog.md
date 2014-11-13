@@ -1,7 +1,7 @@
 #Program
 ## python
 1. 函数式编程: 
-[廖雪峰博客]
+[廖雪峰博客] :[Done 100%]
 2. ML程序设计教程
 3. SICP
 4. [Programming Languages]
